@@ -10,4 +10,9 @@ This legendary game, born in the Soviet Union, is a game that is remembered not 
 
 This work with Javascript basically includes a tetris game.
 
+# Screenshots!
+![enter image description here](https://github.com/tolgayildizz/Tetris-Native-Js/blob/master/img/1.png?raw=true)
+
+![enter image description here](https://github.com/tolgayildizz/Tetris-Native-Js/blob/master/img/3.png?raw=true)
+![enter image description here](https://github.com/tolgayildizz/Tetris-Native-Js/blob/master/img/2.png?raw=true)
 
